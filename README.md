@@ -1,5 +1,8 @@
 ### Hi there 👋
+### My name is Mohamed Sofiene Kadri 
 
+##I am currently learning about Data Analytics/Science and Deep Learning techniques for forecasting and predictive control.
+##
 <!--
 **KadriSof/KadriSof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
