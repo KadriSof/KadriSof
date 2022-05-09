@@ -1,8 +1,12 @@
-### Hi there 👋
-### My name is Mohamed Sofiene Kadri 
+### Hi there, I am Mohamed Sofiene Kadri! 👋 
 
-##I am currently learning about Data Analytics/Science and Deep Learning techniques for forecasting and predictive control.
-##
+- 🌱 I’m currently learning Data Analytics/Science and Machine Learning for advanced control engineering and Process & Qualtiy control.
+- 👯 I’m looking to collaborate on data analytics and machine project.
+- 💬 Ask me about Electronics Design and Control Systems.
+- 📫 How to reach me: [LinkedIn - Mohamed Sofiene Kadri](https://www.linkedin.com/in/mohamed-sofiene-kadri)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a runner but I can't walk straight. :runner: 
+
 <!--
 **KadriSof/KadriSof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: [LinkedIn - Mohamed Sofiene Kadri](https://www.linkedin.com/in/mohamed-sofiene-kadri)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
