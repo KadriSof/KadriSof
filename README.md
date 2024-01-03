@@ -2,8 +2,8 @@
 
 ### Hi there, I am Mohamed Sofiene Kadri! 👋 
 
-- 🌱 I’m currently learning Data Analytics/Science and Machine Learning for advanced control engineering and Process & Qualtiy control.
-- 👯 I’m looking to collaborate on data analytics and machine project.
+- 🌱 I’m a software engineer specialized in computer vision, machine learning, and data science.
+- 👯 I’m looking to collaborate on data analytics, computer vision, and machine learning project.
 - 💬 Ask me about Electronics Design and Control Systems.
 - 📫 How to reach me: [LinkedIn - Mohamed Sofiene Kadri](https://www.linkedin.com/in/mohamed-sofiene-kadri)
 - 😄 Pronouns: He/His
