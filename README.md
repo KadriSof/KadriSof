@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ### Hi there, I am Mohamed Sofiene Kadri! 👋 
 
 - 🌱 I’m currently learning Data Analytics/Science and Machine Learning for advanced control engineering and Process & Qualtiy control.
