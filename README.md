@@ -3,6 +3,7 @@
 ### Hi there, I am Mohamed Sofiene Kadri! 👋 
 
 - 🌱 I’m a software engineer specialized in computer vision, machine learning, and data science.
+- 🎓 I come from a background of Electrical Engineering with a Research Master Degree in Automation and Control Engineering.
 - 💻 I can code in Java for building applications using the Spring Framework.
 - 🐍 I'm proficient in Python and its frameworks for data science and machine learning.
 - 👯 I’m looking to collaborate on java-based applications, statistical analysis, and computer vision projects.
