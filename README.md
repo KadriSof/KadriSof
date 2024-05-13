@@ -11,7 +11,7 @@
 - 📫 How to reach me: [LinkedIn - Mohamed Sofiene Kadri](https://www.linkedin.com/in/mohamed-sofiene-kadri)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am a runner but I can't walk straight. :runner: 
-
+<!--
 ![Sofiene's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadriSof&theme=buefy_icons=true)
 <!--
 **KadriSof/KadriSof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
