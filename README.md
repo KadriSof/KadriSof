@@ -17,11 +17,6 @@ I am currently focused on building compound AI systems and am eager to collabora
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KadriSof&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-> Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function.
-> - John Carmack
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KadriSof&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
