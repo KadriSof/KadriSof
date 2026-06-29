@@ -1,7 +1,7 @@
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 # 💫 About Me:
-I am currently focused on building compound AI systems and am eager to collaborate on multi-agent based systems.<br>I am seeking assistance with implementing AI-based concepts in Java. <br>Additionally, I am actively learning software system architecture and design.<br>Feel free to ask me about Data Science and Digital Signal Processing!
+I am currently focused on building compound AI systems and am eager to collaborate on multi-agent based systems.<br>I am seeking assistance with implementing AI-based concepts in Java. <br>Additionally, I am interested in exploring innovative solutions and contributing to impactful projects.
 
 
 ## 🌐 Socials:
@@ -86,17 +86,19 @@ I am currently focused on building compound AI systems and am eager to collabora
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KadriSof&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KadriSof&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KadriSof&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KadriSof&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KadriSof&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KadriSof&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KadriSof&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KadriSof&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KadriSof&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=KadriSof&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KadriSof&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visit Count](https://visitcount.itsvg.in/api?id=KadriSof&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
