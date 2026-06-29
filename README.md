@@ -90,7 +90,7 @@ I am currently focused on building compound AI systems and am eager to collabora
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KadriSof&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![GitHub Stats](https://github-readme-stats-sofkad.vercel.app/api?username=KadriSof&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
 </div>
 
@@ -102,7 +102,7 @@ I am currently focused on building compound AI systems and am eager to collabora
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KadriSof&theme=dark&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats-sofkad.vercel.app/api/top-langs/?username=KadriSof&theme=dark&hide_border=true&layout=compact)
 
 </div>
 
