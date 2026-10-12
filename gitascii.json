@@ -1,4 +1,5 @@
 {
+  "username": "KadriSof",
   "widgets": [
     {
       "widgetId": "header",
@@ -11535,7 +11536,14 @@
         "height": 280
       },
       "config": {
-        "showLanguages": true
+        "showLanguages": true,
+        "showTwitter": true,
+        "customLanguages": "Python, C/C++, Java, Bash",
+        "customTwitter": "@KadriSof",
+        "customEmail": "ms.kadri.dev@gmail.com",
+        "showEmail": true,
+        "showFollowers": false,
+        "showStars": false
       },
       "locked": false,
       "visible": true,
@@ -11547,16 +11555,22 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 402
+        "y": 410
       },
       "size": {
         "width": 536,
-        "height": 136
+        "height": 160
       },
       "config": {
-        "hideLangsArr": [],
-        "hideLangs": "",
-        "langsCount": 4
+        "hideLangsArr": [
+          "Jupyter Notebook",
+          "CSS",
+          "HTML",
+          "JavaScript",
+          "Dockerfile"
+        ],
+        "hideLangs": "Jupyter Notebook,CSS,HTML,JavaScript,Dockerfile",
+        "langsCount": 5
       },
       "locked": false,
       "visible": true,
@@ -11564,28 +11578,11 @@
       "instanceId": "widget_1791802329111_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
-      },
-      "size": {
-        "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1791802329111_4"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
         "x": 544,
-        "y": 402
+        "y": 410
       },
       "size": {
         "width": 240,
@@ -11610,6 +11607,25 @@
       "visible": true,
       "zIndex": 6,
       "instanceId": "widget_1791802329111_5"
+    },
+    {
+      "instanceId": "widget_1791805092630",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 4,
+        "y": 594
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -11623,5 +11639,10 @@
     "themeMode": "dark",
     "templateStyle": "native"
   },
-  "templateId": "minimal"
+  "templateId": "minimal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1791805545287_sf1a3",
+    "updatedAt": "2026-10-12T11:45:48.314Z"
+  }
 }
